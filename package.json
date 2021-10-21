@@ -1,5 +1,5 @@
 {
-  "name": "@freshworks/oas",
+  "name": "fw-style-guide",
   "version": "0.0.1",
   "description": "Freshworks style guide for REST API",
   "keywords": [
@@ -15,11 +15,11 @@
   "author": "Mohamed Ibrahim <mohamed.ibrahim@freshworks.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freshworks/oas-style-guide.git"
+    "url": "git+https://github.com/ibrahimfw/oas-style-guide.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freshworks/oas-style-guide/issues"
+    "url": "https://github.com/ibrahimfw/oas-style-guide/issues"
   },
-  "homepage": "https://github.com/freshworks/oas-style-guide#readme"
+  "homepage": "https://github.com/ibrahimfw/oas-style-guide#readme"
 }
